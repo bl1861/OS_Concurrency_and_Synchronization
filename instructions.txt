@@ -1,0 +1,5 @@
+compile:
+	gcc -o fileparse fileparse.c hash.c
+
+run:
+	./fileparse access_logs/
