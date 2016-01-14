@@ -9,8 +9,10 @@ The there is a zip file to go along with this assignment in the Coding Projects 
 
 If you are not familiar with how to compile the file (and you should be), perform the following on a linux machine.
 
-> gcc –o fileparse fileparse.c
-> ./fileparse <directory>
+```
+gcc –o fileparse fileparse.c
+./fileparse <directory>
+```
 
 When turning the project in, make sure you have commented your code properly and that it compiles. If the code doesn’t compile, I won’t accept it.
 
